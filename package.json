@@ -1,0 +1,23 @@
+{
+  "name": "timeline-tech-challenge",
+  "version": "0.0.1",
+  "description": "This tech challenge is your chance to demonstrate all of your JS knowledge and show off how you structure and test your code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/articulate/timeline-tech-challenge.git"
+  },
+  "author": "DP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/articulate/timeline-tech-challenge/issues"
+  },
+  "homepage": "https://github.com/articulate/timeline-tech-challenge",
+  "dependencies": {
+    "node-static": "0.7.6"
+   }
+}
